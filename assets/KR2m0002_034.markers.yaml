@@ -133,6 +133,7 @@ markers:
       ', id: KR2m0002_krp_034-bkkkrnewl28}
   - {type: line-break, offset: 453, content: '', id: KR2m0002_WYG_034-2b02}
   - {type: punctuation, offset: 457, content: (, id: KR2m0002_krp_034-bkkpn1}
+  - {type: voice, offset: 457, length: 64, name: note, id: n1}
   - {type: punctuation, offset: 474, content: /, id: KR2m0002_krp_034-bkkpn2}
   - {type: punctuation, offset: 491, content: ), id: KR2m0002_krp_034-bkkpn3}
   - {type: 'kr:newline', offset: 491, content: '
@@ -182,6 +183,7 @@ markers:
       ', id: KR2m0002_krp_034-bkkkrnewl38}
   - {type: line-break, offset: 668, content: '', id: KR2m0002_WYG_034-3a03}
   - {type: punctuation, offset: 674, content: (, id: KR2m0002_krp_034-bkkpn7}
+  - {type: voice, offset: 674, length: 50, name: note, id: n2}
   - {type: punctuation, offset: 689, content: /, id: KR2m0002_krp_034-bkkpn8}
   - {type: substitution, offset: 694, original: 㩁, replacement: 榷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19755}}
   - {type: substitution, offset: 701, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
@@ -1138,6 +1140,7 @@ markers:
       ', id: KR2m0002_krp_034-bkkkrnewl249}
   - {type: line-break, offset: 4294, content: '', id: KR2m0002_WYG_034-14b07}
   - {type: punctuation, offset: 4295, content: (, id: KR2m0002_krp_034-bkkpn13}
+  - {type: voice, offset: 4295, length: 47, name: note, id: n3}
   - {type: substitution, offset: 4308, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 4315, content: /, id: KR2m0002_krp_034-bkkpn14}
   - {type: substitution, offset: 4334, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
@@ -1242,4 +1245,4 @@ markers:
 
       ', id: KR2m0002_krp_034-bkkkrnewl269}
   back: []
-hash: sha256:592a927a62bda43900988a4fb5d40412e1cf32d9678b73aaee9f6911856e27fb
+hash: sha256:c2df78334655b51c9e7f2f0ce715592de03be03841869dca6f2492a03b4653f3

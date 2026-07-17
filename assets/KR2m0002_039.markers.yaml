@@ -991,6 +991,7 @@ markers:
   - {type: line-break, offset: 3611, content: '', id: KR2m0002_WYG_039-12a08}
   - {type: substitution, offset: 3616, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20718}}
   - {type: punctuation, offset: 3631, content: (, id: KR2m0002_krp_039-bkkpn1}
+  - {type: voice, offset: 3631, length: 41, name: note, id: n1}
   - {type: punctuation, offset: 3632, content: /, id: KR2m0002_krp_039-bkkpn2}
   - {type: punctuation, offset: 3633, content: ), id: KR2m0002_krp_039-bkkpn3}
   - {type: 'kr:newline', offset: 3633, content: '
@@ -1282,6 +1283,7 @@ markers:
   - {type: line-break, offset: 4772, content: '', id: KR2m0002_WYG_039-15b08}
   - {type: substitution, offset: 4772, original: 决, replacement: 決, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16386}}
   - {type: punctuation, offset: 4778, content: (, id: KR2m0002_krp_039-bkkpn7}
+  - {type: voice, offset: 4778, length: 57, name: note, id: n2}
   - {type: substitution, offset: 4785, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 4793, content: /, id: KR2m0002_krp_039-bkkpn8}
   - {type: substitution, offset: 4793, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
@@ -2078,4 +2080,4 @@ markers:
 
       ', id: KR2m0002_krp_039-bkkkrnewl431}
   back: []
-hash: sha256:190d4910c8f98338162b3311909965ba8d0525bbd69769a61aad332ef4980272
+hash: sha256:ae77b596f419c5fba83491f99e578d4ef91b2e4ffb9d6ae3c8f994275f09f42f

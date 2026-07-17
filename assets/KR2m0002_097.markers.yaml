@@ -34,6 +34,7 @@ markers:
       ', id: KR2m0002_krp_097-bkkkrnewl5}
   - {type: line-break, offset: 34, content: '', id: KR2m0002_WYG_097-1a06}
   - {type: punctuation, offset: 37, content: (, id: KR2m0002_krp_097-bkkpn1}
+  - {type: voice, offset: 37, length: 60, name: note, id: n1}
   - {type: substitution, offset: 40, original: 凉, replacement: 涼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17200}}
   - {type: substitution, offset: 42, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20730}}
   - {type: punctuation, offset: 55, content: /, id: KR2m0002_krp_097-bkkpn2}
@@ -64,9 +65,11 @@ markers:
       ', id: KR2m0002_krp_097-bkkkrnewl9}
   - {type: line-break, offset: 127, content: '', id: KR2m0002_WYG_097-1b01}
   - {type: punctuation, offset: 136, content: (, id: KR2m0002_krp_097-bkkpn7}
+  - {type: voice, offset: 136, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 139, content: /, id: KR2m0002_krp_097-bkkpn8}
   - {type: punctuation, offset: 141, content: ), id: KR2m0002_krp_097-bkkpn9}
   - {type: punctuation, offset: 146, content: (, id: KR2m0002_krp_097-bkkpn10}
+  - {type: voice, offset: 146, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 149, content: /, id: KR2m0002_krp_097-bkkpn11}
   - {type: punctuation, offset: 151, content: ), id: KR2m0002_krp_097-bkkpn12}
   - {type: 'kr:newline', offset: 152, content: '
@@ -1769,4 +1772,4 @@ markers:
 
       ', id: KR2m0002_krp_097-bkkkrnewl359}
   back: []
-hash: sha256:d083cd8bd809a4f7ec574f624074dfba117ef81f207ed4ba8c36806b9ba4cb9d
+hash: sha256:eb78fe8839ef2f36091aba5fe1995e2e1c2ef9af73ebaad6d311d5ee3fc2ebb8
